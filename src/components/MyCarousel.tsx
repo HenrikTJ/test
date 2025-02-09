@@ -3,7 +3,7 @@ import Carousel from "react-bootstrap/Carousel";
 import Image from "next/image";
 import stockGolf from "@/public/assets/stockGolf.webp";
 import stockGolf2 from "@/public/assets/stockGolf2.webp";
-{/*import stockGolf3 from "@/public/assets/stockGolf3.webp";*/}
+import stockGolf3 from "@/public/assets/stockGolf3.webp";
 
 const heroData = [
     {
